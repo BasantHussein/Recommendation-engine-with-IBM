@@ -1,7 +1,11 @@
+# Data Scientist Nanodegree
 # Recommendation-engine-with-IBM
-Introduction
+
+### Introduction
 This project analyze the interactions that users have with articles on the IBM Watson Studio platform, and will help to make recommendations to the users about new articles they will like.
-Project Overview
+
+### Project Overview & Steps:
+
 I. Exploratory Data Analysis
 
 Before making recommendations of any kind, you will need to explore the data you are working with for the project. Dive in to see what you can find. There are some basic, required questions to be answered about the data you are working with throughout the rest of the notebook. Use this space to explore, before you dive into the details of your recommendation system in the later sections.
@@ -21,3 +25,33 @@ Given the amount of content available for each article, there are a number of di
 V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
+
+### Install
+
+This project requires **Python 3.x** and the following Python libraries installed:
+
+- [NumPy]
+- [Pandas]
+- [matplotlib]
+- [NLTK]
+
+i recommend you to install [Anaconda]
+
+### Code
+
+Template code is provided in the `Recommendations_with_IBM.ipynb`
+
+### Run
+
+```bash
+ipython notebook Recommendations_with_IBM.ipynb
+```  
+or
+```bash
+jupyter notebook Recommendations_with_IBM.ipynb
+```
+
+This will open the iPython Notebook software and project file in your browser.
+
+
+
