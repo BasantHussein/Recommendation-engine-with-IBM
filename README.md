@@ -20,7 +20,7 @@ In order to build better recommendations for the users of IBM's platform, we cou
 
 IV. Content Based Recommendations
 
-Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. Using your NLP skills, you might come up with some extremely creative ways to develop a content based recommendation system. You are encouraged to complete a content based recommendation system, but not required to do so to complete this project.
+Given the amount of content available for each article, there are a number of different ways in which someone might choose to implement a content based recommendations system. 
 
 V. Matrix Factorization
 
