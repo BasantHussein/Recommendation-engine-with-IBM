@@ -2,7 +2,7 @@
 # Recommendation-engine-with-IBM
 
 ### Introduction
-This project analyze the interactions that users have with articles on the IBM Watson Studio platform, and will help to make recommendations to the users about new articles they will like.
+This project analyzes the interactions that users have with articles on the IBM Watson Studio platform, and will help to make recommendations to the users about new articles they will like.
 
 ### Project Overview & Steps:
 
